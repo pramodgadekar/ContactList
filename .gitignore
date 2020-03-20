@@ -1,0 +1,8 @@
+
+*.dll
+*.so
+.vs/EvolentContactList/v16/Server/sqlite3/storage.ide-shm
+.vs/EvolentContactList/v16/Server/sqlite3/storage.ide
+.vs/EvolentContactList/v16/Server/sqlite3/db.lock
+.vs/EvolentContactList/v16/.suo
+.vs/EvolentContactList/v16/Server/sqlite3/storage.ide-wal
